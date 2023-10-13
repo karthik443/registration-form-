@@ -1,0 +1,41 @@
+/* *{
+    font-style: italic;
+    color:rgb(37, 36, 36);
+    background-color: #fae1dd;
+
+} */
+h1{
+    text-align: center;
+    color: black;
+}
+body{
+   background-color:#e9dca5;
+   align-items:  center;
+}
+button{
+    background-color: #a2d2ff;
+}
+input[type="password"]{
+    color:#1d3557 ;
+}
+
+input[type="text"]{
+    
+        color:#1d3557 ;
+}
+button:hover{
+    background-color:#cdb4db;
+}
+.radio:active{
+    background-color:#dda15e;
+    color: #dda15e;
+}
+#box{
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-left: 35%;
+    
+   
+
+}
